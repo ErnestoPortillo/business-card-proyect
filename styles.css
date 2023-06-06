@@ -1,0 +1,32 @@
+body{
+    margin: 20px;
+}
+.main{ 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    background: #ddebf8;
+    padding: 20px;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0 auto 0 auto;
+    border-bottom: 10px solid #d8cefe;
+}
+
+.img{
+    width: 150px;
+}
+.text{
+    color: #2b2839;
+    text-align: center;
+}
+.bold{
+    font-weight: bold;
+}
+
+.smallerfont{
+    font-weight: normal;
+}
+.footer{
+    height: 10px;
+    background-color: violet;
+}
